@@ -1,0 +1,1 @@
+# Imagetyperz-UBOT-API-DLL
